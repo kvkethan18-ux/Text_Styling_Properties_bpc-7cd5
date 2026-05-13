@@ -1,0 +1,16 @@
+.card p{
+    font-size: 13px;
+    color: #555;
+}
+
+.ferris-wheel {
+    transform: rotate(15deg);
+}
+
+.tent{
+    transform:scale(1.2);    
+}
+
+.ticket-booth{
+    transform: rotate(-30deg);
+}
