@@ -1,0 +1,19 @@
+.book-title{
+    font-size: 46px;
+    font-family: georgia;
+    font-weight: bold;
+    color: #6a0dad;
+}
+
+.spell-name{
+    font-size: 26px;
+    font-weight: bold;
+    color: #c0392b;
+}
+
+.ingredients{
+    font-size: 18px;
+    color: #4a235a;
+    font-style: italic;
+    line-height: 2.2;
+}
