@@ -1,0 +1,18 @@
+.neon-title{
+    font-size: 46px;
+    font-weight: bold;
+    color: #ff00ff;
+    letter-spacing: 6px;
+    text-shadow: 0 0 10px #ff00ff, 0 0 25px #ff00ff, 0 0 50px #ff00ff;
+}
+
+.glow-card{
+    box-shadow: 0 0 15px #ff00ff, 0 030px #ff00ff;
+}
+
+.descrption{
+    color: #cccccc;
+    font-size: 15px;
+    line-height: 1.9;
+    text-indent: 30px;
+}
